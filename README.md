@@ -12,6 +12,6 @@ Identifying the cells’ nuclei is the starting point for most analyses because 
 By participating, teams will work to automate the process of identifying nuclei, which will allow for more efficient drug testing, shortening the 10 years it takes for each new drug to come to market. Check out this video overview to find out more.
 
 ## What will participants do?
-Teams will create a computer model that can identify a range of nuclei across varied conditions. By observing patterns, asking questions, and building a model, participants will have a chance to push state-of-the-art technology farther.
+Teams will create a computer model that can identify a range of nuclei across varied conditions. By observing patterns, asking questions, and building a model, participants will have a chance to push state-of-the-art technology farther. <br>
 
-<img scr= "https://storage.googleapis.com/kaggle-media/competitions/dsb-2018/dsb.jpg">
+<img src="https://storage.googleapis.com/kaggle-media/competitions/dsb-2018/dsb.jpg">

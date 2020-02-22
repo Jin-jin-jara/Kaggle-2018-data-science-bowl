@@ -7,12 +7,12 @@
 캐글 2018 data science bowl의 데이터. 세포 이미지와 세포핵(정답)이 이미지와 마스크 형식으로 제공된다.
 자세한 데이터 설명은 <a href = "kaggle.com/c/data-science-bowl-2018/data">여기</a>서 확인.<br>
 ## 사용 라이브러리
-segmentation_models : 이미지 segmentation을 위한 NN모델을 keras와 tensorflow기반으로 쉽게 만들 수 있게 해주는 라이브러리. 이미지넷에서 우승한 전이학습 모델들을 쉽게 unet과 연결할 수 있다.
-numpy 
-pandas
-sklearn
-skimage : 이미지 처리 라이브러리. 기본적인 이미지 읽기뿐마니라 세분화, 기하학적 변형, 색 공간 조작, 분석, 필터링, 형상 감지들 다양한 알고리즘이 포함된다. 
-cv2 : 파이썬에서 사용하는 OpenCV 라이브러리. skimage와 비슷하지만 다른 인코더를 가진다. cv2는 'BRG', skimage는 'RGB'
+segmentation_models : 이미지 segmentation을 위한 NN모델을 keras와 tensorflow기반으로 쉽게 만들 수 있게 해주는 라이브러리. 이미지넷에서 우승한 전이학습 모델들을 쉽게 unet과 연결할 수 있다.<br>
+numpy <br>
+pandas <br>
+sklearn<br>
+skimage : 이미지 처리 라이브러리. 기본적인 이미지 읽기뿐마니라 세분화, 기하학적 변형, 색 공간 조작, 분석, 필터링, 형상 감지들 다양한 알고리즘이 포함된다. <br>
+cv2 : 파이썬에서 사용하는 OpenCV 라이브러리. skimage와 비슷하지만 다른 인코더를 가진다. cv2는 'BRG', skimage는 'RGB'<br>
 albumentations : 이미지를 생성하는 generator를 원하는대로 커스텀하기 위한 라이브러리.<br>
 
 ## 모델
